@@ -1,2 +1,2 @@
 # My-Portfolio
-Designed a simple portfolio using HTML and CSS
+Designed a simple personal portfolio to built using only HTML and CSS. This portfolio includes my skills and projects.
